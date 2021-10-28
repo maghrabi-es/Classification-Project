@@ -18,3 +18,12 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 Tools:
 
 I will use python because it contains libraries for Machine Learning (Logistic Regression, KNN,etc ). also for exploratory analysis and data cleaning will use (pandas, Matplotlib, NumPy ,etc.).
+
+
+
+
+
+
+#artificial-intelligence
+#machine-learning
+#predictive-analytics
